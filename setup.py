@@ -48,7 +48,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'django>=1.11,<4.0',
+        'django>=1.11,<5.0',
         'pillow',
     ],
     python_requires='>=3.5',
